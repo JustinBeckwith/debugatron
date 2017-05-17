@@ -1,0 +1,419 @@
+---
+httpRequest:
+  status: 200
+insertId: 2016-10-06|21:18:01.432387-07|10.106.195.36|1494126479
+internalId:
+  projectNumber: '169864653242'
+labels:
+  appengine.googleapis.com/clone_id: 00c61b117c1116ff796b8102a8d5e0b5dc395759ca369e8756cc9da7e414
+  appengine.googleapis.com/request_id: 57f721f500ff00ffb7b4dfa99be10001737e67636c6f75642d6170706366670001323031363038313774313033313035000100
+logName: projects/gcloud-appcfg/logs/appengine.googleapis.com%2Frequest_log
+operation:
+  id: 57f721f500ff00ffb7b4dfa99be10001737e67636c6f75642d6170706366670001323031363038313774313033313035000100
+  producer: appengine.googleapis.com/request_id
+protoPayload:
+  '@type': type.googleapis.com/google.appengine.logging.v1.RequestLog
+  appEngineRelease: 1.9.44
+  appId: s~gcloud-appcfg
+  cost: 6.817e-09
+  endTime: '2016-10-07T04:17:57.059425Z'
+  host: gcloud-appcfg.appspot.com
+  httpVersion: HTTP/1.1
+  instanceId: 00c61b117c1116ff796b8102a8d5e0b5dc395759ca369e8756cc9da7e414
+  instanceIndex: -1
+  ip: 50.135.225.124
+  latency: 0.012397s
+  megaCycles: '14'
+  method: GET
+  requestId: 57f721f500ff00ffb7b4dfa99be10001737e67636c6f75642d6170706366670001323031363038313774313033313035000100
+  resource: /
+  responseSize: '61'
+  startTime: '2016-10-07T04:17:57.047028Z'
+  status: 200
+  traceId: 1bad030380bb9b4f7580a15a9838283a
+  urlMapEntry: main.php
+  userAgent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML,
+    like Gecko) Chrome/53.0.2785.143 Safari/537.36
+  versionId: 20160817t103105
+resource:
+  labels:
+    module_id: default
+    version_id: 20160817t103105
+    zone: us9
+  type: gae_app
+timestamp: '2016-10-07T04:17:57.047028Z'
+---
+httpRequest:
+  status: 200
+insertId: 2016-10-06|21:17:57.149140-07|10.106.151.198|-301327975
+internalId:
+  projectNumber: '169864653242'
+labels:
+  appengine.googleapis.com/clone_id: 00c61b117c3dfdd32b038551d4336094a13d689e57fa8aea0c8e2531b25402
+  appengine.googleapis.com/request_id: 57f721f200ff0ee3e8b894592a0001737e67636c6f75642d6170706366670001323031363038313774313033313035000100
+logName: projects/gcloud-appcfg/logs/appengine.googleapis.com%2Frequest_log
+operation:
+  id: 57f721f200ff0ee3e8b894592a0001737e67636c6f75642d6170706366670001323031363038313774313033313035000100
+  producer: appengine.googleapis.com/request_id
+protoPayload:
+  '@type': type.googleapis.com/google.appengine.logging.v1.RequestLog
+  appEngineRelease: 1.9.44
+  appId: s~gcloud-appcfg
+  cost: 6.817e-09
+  endTime: '2016-10-07T04:17:54.987954Z'
+  host: gcloud-appcfg.appspot.com
+  httpVersion: HTTP/1.1
+  instanceId: 00c61b117c3dfdd32b038551d4336094a13d689e57fa8aea0c8e2531b25402
+  instanceIndex: -1
+  ip: 50.135.225.124
+  latency: 0.012106s
+  megaCycles: '12'
+  method: GET
+  requestId: 57f721f200ff0ee3e8b894592a0001737e67636c6f75642d6170706366670001323031363038313774313033313035000100
+  resource: /
+  responseSize: '61'
+  startTime: '2016-10-07T04:17:54.975848Z'
+  status: 200
+  urlMapEntry: main.php
+  userAgent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML,
+    like Gecko) Chrome/53.0.2785.143 Safari/537.36
+  versionId: 20160817t103105
+resource:
+  labels:
+    module_id: default
+    version_id: 20160817t103105
+    zone: us9
+  type: gae_app
+timestamp: '2016-10-07T04:17:54.975848Z'
+---
+httpRequest:
+  status: 200
+insertId: 2016-10-06|21:17:52.148881-07|10.106.57.212|319525676
+internalId:
+  projectNumber: '169864653242'
+labels:
+  appengine.googleapis.com/clone_id: 00c61b117c3dfdd32b038551d4336094a13d689e57fa8aea0c8e2531b25402
+  appengine.googleapis.com/request_id: 57f721f000ff00ff15e0fa171c7b0001737e67636c6f75642d6170706366670001323031363038313774313033313035000100
+logName: projects/gcloud-appcfg/logs/appengine.googleapis.com%2Frequest_log
+operation:
+  id: 57f721f000ff00ff15e0fa171c7b0001737e67636c6f75642d6170706366670001323031363038313774313033313035000100
+  producer: appengine.googleapis.com/request_id
+protoPayload:
+  '@type': type.googleapis.com/google.appengine.logging.v1.RequestLog
+  appEngineRelease: 1.9.44
+  appId: s~gcloud-appcfg
+  cost: 6.817e-09
+  endTime: '2016-10-07T04:17:52.016019Z'
+  host: gcloud-appcfg.appspot.com
+  httpVersion: HTTP/1.1
+  instanceId: 00c61b117c3dfdd32b038551d4336094a13d689e57fa8aea0c8e2531b25402
+  instanceIndex: -1
+  ip: 50.135.225.124
+  latency: 0.010419s
+  megaCycles: '10'
+  method: GET
+  requestId: 57f721f000ff00ff15e0fa171c7b0001737e67636c6f75642d6170706366670001323031363038313774313033313035000100
+  resource: /
+  responseSize: '61'
+  startTime: '2016-10-07T04:17:52.005600Z'
+  status: 200
+  traceId: b950ed8450b3ca493b5fdde8048470f8
+  urlMapEntry: main.php
+  userAgent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML,
+    like Gecko) Chrome/53.0.2785.143 Safari/537.36
+  versionId: 20160817t103105
+resource:
+  labels:
+    module_id: default
+    version_id: 20160817t103105
+    zone: us9
+  type: gae_app
+timestamp: '2016-10-07T04:17:52.005600Z'
+---
+httpRequest:
+  status: 200
+insertId: 2016-10-06|21:17:31.431423-07|10.106.129.147|453092485
+internalId:
+  projectNumber: '169864653242'
+labels:
+  appengine.googleapis.com/clone_id: 00c61b117c1116ff796b8102a8d5e0b5dc395759ca369e8756cc9da7e414
+  appengine.googleapis.com/request_id: 57f721d600ff0efa2aa36eb0a70001737e67636c6f75642d6170706366670001323031363038313774313033313035000100
+logName: projects/gcloud-appcfg/logs/appengine.googleapis.com%2Frequest_log
+operation:
+  id: 57f721d600ff0efa2aa36eb0a70001737e67636c6f75642d6170706366670001323031363038313774313033313035000100
+  producer: appengine.googleapis.com/request_id
+protoPayload:
+  '@type': type.googleapis.com/google.appengine.logging.v1.RequestLog
+  appEngineRelease: 1.9.44
+  appId: s~gcloud-appcfg
+  cost: 6.817e-09
+  endTime: '2016-10-07T04:17:26.997080Z'
+  host: gcloud-appcfg.appspot.com
+  httpVersion: HTTP/1.1
+  instanceId: 00c61b117c1116ff796b8102a8d5e0b5dc395759ca369e8756cc9da7e414
+  instanceIndex: -1
+  ip: 50.135.225.124
+  latency: 0.015534s
+  megaCycles: '14'
+  method: GET
+  requestId: 57f721d600ff0efa2aa36eb0a70001737e67636c6f75642d6170706366670001323031363038313774313033313035000100
+  resource: /
+  responseSize: '61'
+  startTime: '2016-10-07T04:17:26.981546Z'
+  status: 200
+  urlMapEntry: main.php
+  userAgent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML,
+    like Gecko) Chrome/53.0.2785.143 Safari/537.36
+  versionId: 20160817t103105
+resource:
+  labels:
+    module_id: default
+    version_id: 20160817t103105
+    zone: us9
+  type: gae_app
+timestamp: '2016-10-07T04:17:26.981546Z'
+---
+httpRequest:
+  status: 200
+insertId: 2016-10-06|21:17:31.431399-07|10.106.129.147|453092485
+internalId:
+  projectNumber: '169864653242'
+labels:
+  appengine.googleapis.com/clone_id: 00c61b117c1116ff796b8102a8d5e0b5dc395759ca369e8756cc9da7e414
+  appengine.googleapis.com/request_id: 57f721d600ff09e6138d8826950001737e67636c6f75642d6170706366670001323031363038313774313033313035000100
+logName: projects/gcloud-appcfg/logs/appengine.googleapis.com%2Frequest_log
+operation:
+  id: 57f721d600ff09e6138d8826950001737e67636c6f75642d6170706366670001323031363038313774313033313035000100
+  producer: appengine.googleapis.com/request_id
+protoPayload:
+  '@type': type.googleapis.com/google.appengine.logging.v1.RequestLog
+  appEngineRelease: 1.9.44
+  appId: s~gcloud-appcfg
+  cost: 6.817e-09
+  endTime: '2016-10-07T04:17:26.662719Z'
+  host: gcloud-appcfg.appspot.com
+  httpVersion: HTTP/1.1
+  instanceId: 00c61b117c1116ff796b8102a8d5e0b5dc395759ca369e8756cc9da7e414
+  instanceIndex: -1
+  ip: 50.135.225.124
+  latency: 0.013996s
+  megaCycles: '14'
+  method: GET
+  requestId: 57f721d600ff09e6138d8826950001737e67636c6f75642d6170706366670001323031363038313774313033313035000100
+  resource: /
+  responseSize: '61'
+  startTime: '2016-10-07T04:17:26.648723Z'
+  status: 200
+  urlMapEntry: main.php
+  userAgent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML,
+    like Gecko) Chrome/53.0.2785.143 Safari/537.36
+  versionId: 20160817t103105
+resource:
+  labels:
+    module_id: default
+    version_id: 20160817t103105
+    zone: us9
+  type: gae_app
+timestamp: '2016-10-07T04:17:26.648723Z'
+---
+httpRequest:
+  status: 200
+insertId: 2016-10-06|21:17:31.431373-07|10.106.129.147|453092485
+internalId:
+  projectNumber: '169864653242'
+labels:
+  appengine.googleapis.com/clone_id: 00c61b117c1116ff796b8102a8d5e0b5dc395759ca369e8756cc9da7e414
+  appengine.googleapis.com/request_id: 57f721d600ff05b7e3d780e2e70001737e67636c6f75642d6170706366670001323031363038313774313033313035000100
+logName: projects/gcloud-appcfg/logs/appengine.googleapis.com%2Frequest_log
+operation:
+  id: 57f721d600ff05b7e3d780e2e70001737e67636c6f75642d6170706366670001323031363038313774313033313035000100
+  producer: appengine.googleapis.com/request_id
+protoPayload:
+  '@type': type.googleapis.com/google.appengine.logging.v1.RequestLog
+  appEngineRelease: 1.9.44
+  appId: s~gcloud-appcfg
+  cost: 6.817e-09
+  endTime: '2016-10-07T04:17:26.430380Z'
+  host: gcloud-appcfg.appspot.com
+  httpVersion: HTTP/1.1
+  instanceId: 00c61b117c1116ff796b8102a8d5e0b5dc395759ca369e8756cc9da7e414
+  instanceIndex: -1
+  ip: 50.135.225.124
+  latency: 0.055625s
+  line:
+  - logMessage: This request caused a new process to be started for your application,
+      and thus caused your application code to be loaded for the first time. This
+      request may thus take longer and use more CPU than a typical request for your
+      application.
+    severity: INFO
+    time: '2016-10-07T04:17:26.430161Z'
+  megaCycles: '58'
+  method: GET
+  requestId: 57f721d600ff05b7e3d780e2e70001737e67636c6f75642d6170706366670001323031363038313774313033313035000100
+  resource: /
+  responseSize: '61'
+  startTime: '2016-10-07T04:17:26.374755Z'
+  status: 200
+  urlMapEntry: main.php
+  userAgent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML,
+    like Gecko) Chrome/53.0.2785.143 Safari/537.36
+  versionId: 20160817t103105
+  wasLoadingRequest: true
+resource:
+  labels:
+    module_id: default
+    version_id: 20160817t103105
+    zone: us9
+  type: gae_app
+severity: INFO
+timestamp: '2016-10-07T04:17:26.374755Z'
+---
+httpRequest:
+  status: 200
+insertId: 2016-10-06|21:17:32.148668-07|10.106.34.199|788822474
+internalId:
+  projectNumber: '169864653242'
+labels:
+  appengine.googleapis.com/clone_id: 00c61b117c3dfdd32b038551d4336094a13d689e57fa8aea0c8e2531b25402
+  appengine.googleapis.com/request_id: 57f721d600ff01a0359c68ebd30001737e67636c6f75642d6170706366670001323031363038313774313033313035000100
+logName: projects/gcloud-appcfg/logs/appengine.googleapis.com%2Frequest_log
+operation:
+  id: 57f721d600ff01a0359c68ebd30001737e67636c6f75642d6170706366670001323031363038313774313033313035000100
+  producer: appengine.googleapis.com/request_id
+protoPayload:
+  '@type': type.googleapis.com/google.appengine.logging.v1.RequestLog
+  appEngineRelease: 1.9.44
+  appId: s~gcloud-appcfg
+  cost: 6.817e-09
+  endTime: '2016-10-07T04:17:27.147440Z'
+  host: gcloud-appcfg.appspot.com
+  httpVersion: HTTP/1.1
+  instanceId: 00c61b117c3dfdd32b038551d4336094a13d689e57fa8aea0c8e2531b25402
+  instanceIndex: -1
+  ip: 50.135.225.124
+  latency: 1.040891s
+  line:
+  - logMessage: This request caused a new process to be started for your application,
+      and thus caused your application code to be loaded for the first time. This
+      request may thus take longer and use more CPU than a typical request for your
+      application.
+    severity: INFO
+    time: '2016-10-07T04:17:27.147184Z'
+  megaCycles: '58'
+  method: GET
+  pendingTime: 0.985880613s
+  requestId: 57f721d600ff01a0359c68ebd30001737e67636c6f75642d6170706366670001323031363038313774313033313035000100
+  resource: /
+  responseSize: '61'
+  startTime: '2016-10-07T04:17:26.106549Z'
+  status: 200
+  traceId: 2eb417fc510252975b1ec77eb3392c2e
+  urlMapEntry: main.php
+  userAgent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML,
+    like Gecko) Chrome/53.0.2785.143 Safari/537.36
+  versionId: 20160817t103105
+  wasLoadingRequest: true
+resource:
+  labels:
+    module_id: default
+    version_id: 20160817t103105
+    zone: us9
+  type: gae_app
+severity: INFO
+timestamp: '2016-10-07T04:17:26.106549Z'
+---
+httpRequest:
+  status: 404
+insertId: 2016-10-06|21:17:28.998341-07|10.94.33.202|-654129493
+internalId:
+  projectNumber: '169864653242'
+labels:
+  appengine.googleapis.com/request_id: 57f721d300ff0f034ce9757c0e0001737e67636c6f75642d6170706366670001323031363038313774313033313035000100
+logName: projects/gcloud-appcfg/logs/appengine.googleapis.com%2Frequest_log
+operation:
+  id: 57f721d300ff0f034ce9757c0e0001737e67636c6f75642d6170706366670001323031363038313774313033313035000100
+  producer: appengine.googleapis.com/request_id
+protoPayload:
+  '@type': type.googleapis.com/google.appengine.logging.v1.RequestLog
+  appEngineRelease: 1.9.44
+  appId: s~gcloud-appcfg
+  endTime: '2016-10-07T04:17:23.997010Z'
+  host: gcloud-appcfg.appspot.com
+  httpVersion: HTTP/1.1
+  instanceIndex: -1
+  ip: 50.135.225.124
+  latency: 0.013126s
+  line:
+  - logMessage: No handlers matched this URL.
+    severity: WARNING
+    time: '2016-10-07T04:17:23.996602Z'
+  method: GET
+  requestId: 57f721d300ff0f034ce9757c0e0001737e67636c6f75642d6170706366670001323031363038313774313033313035000100
+  resource: /favicon.ico
+  startTime: '2016-10-07T04:17:23.983884Z'
+  status: 404
+  traceId: dba3b6815e129f94576aaa51947079f6
+  userAgent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML,
+    like Gecko) Chrome/53.0.2785.143 Safari/537.36
+  versionId: 20160817t103105
+resource:
+  labels:
+    module_id: default
+    version_id: 20160817t103105
+    zone: us9
+  type: gae_app
+severity: WARNING
+timestamp: '2016-10-07T04:17:23.983884Z'
+---
+httpRequest:
+  status: 200
+insertId: 2016-10-06|21:17:28.674202-07|10.106.58.65|-66247241
+internalId:
+  projectNumber: '169864653242'
+labels:
+  appengine.googleapis.com/clone_id: 00c61b117c856c466e3f8820867e475d0617b73ab8e22fd60a9d443220edc809
+  appengine.googleapis.com/request_id: 57f721d300ff08af1d510e7d380001737e67636c6f75642d6170706366670001323031363038313774313033313035000100
+logName: projects/gcloud-appcfg/logs/appengine.googleapis.com%2Frequest_log
+operation:
+  id: 57f721d300ff08af1d510e7d380001737e67636c6f75642d6170706366670001323031363038313774313033313035000100
+  producer: appengine.googleapis.com/request_id
+protoPayload:
+  '@type': type.googleapis.com/google.appengine.logging.v1.RequestLog
+  appEngineRelease: 1.9.44
+  appId: s~gcloud-appcfg
+  cost: 6.817e-09
+  endTime: '2016-10-07T04:17:23.673101Z'
+  host: gcloud-appcfg.appspot.com
+  httpVersion: HTTP/1.1
+  instanceId: 00c61b117c856c466e3f8820867e475d0617b73ab8e22fd60a9d443220edc809
+  instanceIndex: -1
+  ip: 50.135.225.124
+  latency: 0.103984s
+  line:
+  - logMessage: This request caused a new process to be started for your application,
+      and thus caused your application code to be loaded for the first time. This
+      request may thus take longer and use more CPU than a typical request for your
+      application.
+    severity: INFO
+    time: '2016-10-07T04:17:23.672844Z'
+  megaCycles: '77'
+  method: GET
+  requestId: 57f721d300ff08af1d510e7d380001737e67636c6f75642d6170706366670001323031363038313774313033313035000100
+  resource: /
+  responseSize: '61'
+  startTime: '2016-10-07T04:17:23.569117Z'
+  status: 200
+  traceId: 4a9d7c1f34828d68bcc4855c9ee00920
+  urlMapEntry: main.php
+  userAgent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML,
+    like Gecko) Chrome/53.0.2785.143 Safari/537.36
+  versionId: 20160817t103105
+  wasLoadingRequest: true
+resource:
+  labels:
+    module_id: default
+    version_id: 20160817t103105
+    zone: us9
+  type: gae_app
+severity: INFO
+timestamp: '2016-10-07T04:17:23.569117Z'

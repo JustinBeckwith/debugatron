@@ -1,4 +1,0 @@
-cron:
-- description: test dispatch vs target
-  url: /
-  schedule: every 1 mins
